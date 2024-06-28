@@ -8,4 +8,4 @@
 4- local: git tag -d v1.7 
    remotly: git push origin :v1.7
 
-![Logo] (cvcss.png)
+![Logo](cvcss.png)
